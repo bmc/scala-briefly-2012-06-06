@@ -1,5 +1,5 @@
 Source for a _Scala, briefly_ presentation, given at a meeting
-of *Philly Coders*, in June, 2012.
+of *Philly Coders*, on 6 June, 2012.
 
 Requires the following software:
 
