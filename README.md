@@ -1,5 +1,5 @@
-Source for _Introduction to SBT 0.10_ presentation, given to the
-Philly Area Scala Enthusiasts ([PHASE][]) on 18 November, 2011.
+Source for a _Scala, briefly_ presentation, given at a meeting
+of *Philly Coders*, in June, 2012.
 
 Requires the following software:
 
